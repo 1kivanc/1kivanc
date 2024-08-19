@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Kıvanç</h1>
+# Merhaba, ben Kıvanç Çoban! 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1kivanc&label=Profile%20views&color=0e75b6&style=flat" alt="1kivanc" /> </p>
 
-- 📫 How to reach me **kivanc0556@gmail.com**
+## 💼 Hakkımda
+- 🎓 Muğla Sıtkı Koçman Üniversitesi, Yönetim Bilişim Sistemleri öğrencisiyim.
+- 🌱 Şu anda Solidity ve akıllı sözleşmeler üzerine çalışıyorum.
+- 💻 FullStack web geliştirme ve doğal dil işleme konularında projeler yapıyorum.
+- ⚙️ Kullandığım diller: JavaScript, Python, Solidity, C#  
+- 📫 Bana ulaşmak için **kivanc0556@gmail.com**
 
-<img align="right" alt="bill gates ve agaları" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt3bHBmaDMzdmFmejA0dTljYW5xMW04Y3RlNXJzc3V1bGF2Nm5lOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.webp">
+<img align="right" alt="ljk" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt3bHBmaDMzdmFmejA0dTljYW5xMW04Y3RlNXJzc3V1bGF2Nm5lOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.webp">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kivanccoban) 
