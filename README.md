@@ -1,12 +1,26 @@
-# Merhaba, ben Kıvanç Çoban! 👋
+# Hi, I'm Kıvanç Çoban! 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1kivanc&label=Profile%20views&color=0e75b6&style=flat" alt="1kivanc" /> </p>
 
-## 💼 Hakkımda
-- 🎓 Muğla Sıtkı Koçman Üniversitesi, Yönetim Bilişim Sistemleri öğrencisiyim.
-- 🌱 Şu anda Solidity ve akıllı sözleşmeler üzerine çalışıyorum.
-- 💻 FullStack web geliştirme ve doğal dil işleme konularında projeler yapıyorum.
-- ⚙️ Kullandığım diller: JavaScript, Python, Solidity, C#  
-- 📫 Bana ulaşmak için **kivanc0556@gmail.com**
+<div>
+  <h2>💼 About Me</h2>
+
+  <p>🎓 <b>Muğla Sıtkı Koçman University</b> - Management Information Systems Student</p>
+
+  <p>🌱 Currently focusing on <b>Solidity</b> and <b>smart contracts</b>.</p>
+
+  <p>💻 Working on projects in <b>FullStack web development</b> and <b>natural language processing</b>.</p>
+
+  <p>⚙️ Languages I use:</p>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  </p>
+
+  <p>📫 Reach me at: <b>kivanc0556@gmail.com</b></p>
+</div>
+
 
 <img align="right" alt="ljk" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt3bHBmaDMzdmFmejA0dTljYW5xMW04Y3RlNXJzc3V1bGF2Nm5lOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.webp">
 
