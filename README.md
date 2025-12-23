@@ -4,7 +4,7 @@
 <div>
   <h2>💼 About Me</h2>
 
-  <p>🎓 <b>Muğla Sıtkı Koçman University</b> - Management Information Systems Student</p>
+  <p>🎓Management Information Systems </p>
 
   <p>🌱 Currently focusing on <b>Solidity</b> and <b>smart contracts</b>.</p>
 
